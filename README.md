@@ -14,3 +14,6 @@ V_out(peak)= 2*19.95*10^3*10^(-44/20)=0.178mV_pk
 
 
 ![Schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20183249.png?raw=true)
+***
+## S-Domain Analysis of the amplifier
+![Schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Fig-d2-1-mic-analysis.png?raw=true)
