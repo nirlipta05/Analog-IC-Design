@@ -31,3 +31,6 @@ V_out(peak)= 2*19.95*10^3*10^(-44/20)=0.178mV_pk
 ***
 ## Theveninn equivalent using op-amp
 ![schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20210735.png?raw=true)
+***
+## Plot of simple rc high pass filter using ngspice
+![schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20222050.png?raw=true)
