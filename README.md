@@ -28,4 +28,6 @@ V_out(peak)= 2*19.95*10^3*10^(-44/20)=0.178mV_pk
 - *R3 (Load Resistor)*: Represents the input resistance of the subsequent amplifier stage.
 
 ![Schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20202907.png?raw=true)
-
+***
+## Theveninn equivalent using op-amp
+![schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20210735.png?raw=true)
