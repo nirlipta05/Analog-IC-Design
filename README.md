@@ -34,3 +34,6 @@ V_out(peak)= 2*19.95*10^3*10^(-44/20)=0.178mV_pk
 ***
 ## Plot of simple rc high pass filter using ngspice
 ![schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20222050.png?raw=true)
+***
+## Current mirror circuit
+![schematic](https://github.com/nirlipta05/Analog-IC-Design/blob/main/Screenshot%202025-08-01%20234532.png?raw=true)
