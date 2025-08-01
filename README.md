@@ -5,3 +5,5 @@ This repository contain the design,simulation and analysi of an interface circui
 * Designing an op-amp based amplifier
 * Performing circuit characterization using ngspice
 * Implementing schematics using Xschem
+***
+## Thevenin equivalent model calculation
